@@ -1,5 +1,5 @@
 {
-  "name": "@stencil/helmet",
+  "name": "echo-stencil-helmet",
   "version": "0.3.3-0",
   "description": "Declaratively update the head from a Stencil app.",
   "main": "dist/stencil-helmet.js",
